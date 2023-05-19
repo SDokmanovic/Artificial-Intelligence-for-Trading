@@ -14,5 +14,5 @@ Repository for python coding projects completed during the [Artificial Intellige
 * Created multiple alpha factors and applied various techniques to evaluate their performance. Formulated an advanced portfolio optimisation problem that combined these alpha factors with a PCA risk model. Penalties were applied to the optimisation to limit concentration risks within the portfolio. Constraints were also incorporated on portfolio risk, leverage, market neutrality and factor exposures.
 * Project link: 
 ## Project 5 - Sentiment Analysis using Natural Language Processing (NLP):
-* Applied natural language processing on corporate 10k filings. The data was cleaned and underwent text processing, feature extraction and modeling. Sentiment word lists were used with bag-of-words and TF-IDF to generate company specific sentiments. Alpha factors were created based on how these sentiments evolve over time.
+* Applied natural language processing on corporate 10k filings. The data was cleaned and underwent text processing, feature extraction and modeling. Sentiment word lists were used with bag-of-words and TF-IDF to generate company specific sentiments. Alpha factors were then created based on how these sentiments evolve over time.
 * Project link: 
