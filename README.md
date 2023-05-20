@@ -16,3 +16,12 @@ Repository for python coding projects completed during the [Artificial Intellige
 ## Project 5 - Sentiment Analysis using Natural Language Processing (NLP):
 * Applied natural language processing on corporate 10k filings. The data was cleaned and underwent text processing, feature extraction and modeling. Sentiment word lists were used with bag-of-words and TF-IDF to generate company specific sentiments. Alpha factors were then created based on how these sentiments evolve over time and were evaluated using various techniques.
 * Project link: 
+## Project 6 - Sentiment Analysis with Neural Networks:
+* Constructed and trained a deep neural network to process and interpret news data. The network included embedding and LSTM layers and was used for sentiment classification.
+* Project link: 
+## Project 7 - Combining Signals for Enhanced Alpha:
+* Combined multiple alpha signals together using a random forest for enhanced alpha. Applied various techniques to evaluate its performance and explored different solutions to the problem of overlapping samples.
+* Project link: 
+## Project 8 - Backtesting:
+* Built a realistic backtester that uses raw Barra data to generate alpha factors and risk factors. The backtester makes use of portfolio optimisations that consider transaction costs. Used performance attribution to identify the major drivers of the portfolio’s profit-and-loss (PnL).
+* Project link: 
