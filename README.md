@@ -5,7 +5,7 @@ Repository for python coding projects completed during the [Artificial Intellige
 * Implemented a momentum trading strategy on a universe of stocks. Tested the strategy's profitablity and performed a statistical test to conclude if there is alpha in the signal or not.
 * Project link: [Trading with Momentum](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%201%20-%20Trading%20with%20momentum.ipynb)
 ## Project 2 - Breakout Strategy:
-* Implemented and evaluated a breakout trading signal. Ran statistical tests to assess normality and conclude if there is alpha in the signal or not. Outliers were also identified and the effect of filtering these out was evaluated on the trading signal.
+* Implemented and evaluated a breakout trading signal. Ran statistical tests to assess the normality of the signal returns and identify outliers. The effect of filtering these outliers out was also assessed.
 * Project link: [Breakout Strategy](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%202%20-%20Breakout%20strategy.ipynb)
 ## Project 3 - Smart Beta & Portfolio Optimisation:
 * Created two smart beta portfolios; one utilising fundamental data and the other utilising optimisations. Evaluated the performance of these portfolios by calculating their tracking errors with a benchmark. Calculated the turnover of these portfolios to assess the costs of rebalancing.
