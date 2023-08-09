@@ -8,7 +8,7 @@ Repository for python coding projects completed during the [Artificial Intellige
 * Implemented and evaluated a breakout trading signal. Ran statistical tests to assess the normality of the signal returns and identify outliers. The effect of filtering these outliers out was also assessed.
 * Project link: [Breakout Strategy](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%202%20-%20Breakout%20strategy.ipynb)
 ## Project 3 - Smart Beta & Portfolio Optimisation:
-* Created two smart beta portfolios; one utilising fundamental data and the other utilising optimisations. Evaluated the performance of these portfolios by calculating their tracking errors with a benchmark. Calculated the turnover of these portfolios to assess the costs of rebalancing.
+* Created two smart beta portfolios; one utilising fundamental data and the other utilising optimisations. Evaluated the performance of these portfolios by calculating their tracking errors against a benchmark. Calculated the turnover of these portfolios to assess the costs of rebalancing.
 * Project link: [Smart Beta & Portfolio Optimisation](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%203%20-%20Smart%20beta%20and%20portfolio%20optimization.ipynb)
 ## Project 4 - Multi-Factor Model:
 * Created multiple alpha factors and applied various techniques to evaluate their performance. Formulated an advanced portfolio optimisation problem that combined these alpha factors with a PCA risk model. Penalties were applied to the optimisation to limit concentration risks within the portfolio. Constraints were also incorporated on portfolio risk, leverage, market neutrality and factor exposures.
