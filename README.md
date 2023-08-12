@@ -17,7 +17,7 @@ Repository for python coding projects completed during the [Artificial Intellige
 * Applied natural language processing on corporate 10k filings. The data was cleaned and underwent text processing, feature extraction and modeling. Sentiment word lists were used with bag-of-words and TF-IDF to generate company specific sentiments. Alpha factors were then created based on how these sentiments evolve over time and were evaluated using various techniques.
 * Project link: [Sentiment Analysis using Natural Language Processing (NLP)](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%205%20-%20NLP%20on%20financial%20statements.ipynb)
 ## Project 6 - Sentiment Analysis with Neural Networks:
-* Constructed and trained a deep neural network to process and interpret news data. The network included embedding and LSTM layers and was used for sentiment classification.
+* After preprocessing news data on stocks, a deep neural network was constructed and trained to interpret it. The network included embedding and LSTM layers and was used for sentiment classification.
 * Project link: [Sentiment Analysis with Neural Networks](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%206%20-%20Sentiment%20analysis%20with%20neural%20networks.ipynb)
 ## Project 7 - Combining Signals for Enhanced Alpha:
 * Combined multiple alpha signals together using a random forest for enhanced alpha. Applied various techniques to evaluate its performance and explored different solutions to the problem of overlapping samples.
