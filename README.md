@@ -23,5 +23,5 @@ Repository for python coding projects completed during the [Artificial Intellige
 * Combined multiple alpha signals together using a random forest for enhanced alpha. Applied various techniques to evaluate its performance and explored different solutions to the problem of overlapping samples.
 * Project link: [Combining Signals for Enhanced Alpha](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%207%20-%20Combining%20signals%20for%20enhanced%20alpha.ipynb)
 ## Project 8 - Backtesting:
-* Built a realistic backtester that uses raw Barra data to generate alpha factors and risk factors. The backtester makes use of portfolio optimisations that consider transaction costs. Used performance attribution to identify the major drivers of the portfolio’s profit-and-loss (PnL).
+* Built a realistic backtester that uses Barra flat files to generate alpha factors and risk factors. The backtester makes use of portfolio optimisations that consider transaction costs. Used performance attribution to identify the major drivers of the portfolio’s profit-and-loss (PnL).
 * Project link: [Backtesting](https://github.com/SDokmanovic/Artificial-Intelligence-for-Trading/blob/main/Project%208%20-%20Backtesting.ipynb)
